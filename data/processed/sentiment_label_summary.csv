@@ -1,0 +1,13 @@
+sentiment_label,headline_count,group,share_within_group
+negative,961,all_oil,0.3393361581920904
+neutral,1327,all_oil,0.4685734463276836
+positive,544,all_oil,0.192090395480226
+negative,447,consumer_fuel,0.3243831640058055
+neutral,731,consumer_fuel,0.530478955007257
+positive,200,consumer_fuel,0.14513788098693758
+negative,242,market_prices,0.3188405797101449
+neutral,346,market_prices,0.45586297760210803
+positive,171,market_prices,0.22529644268774704
+negative,272,supply_geopolitics,0.39136690647482014
+neutral,250,supply_geopolitics,0.3597122302158273
+positive,173,supply_geopolitics,0.2489208633093525

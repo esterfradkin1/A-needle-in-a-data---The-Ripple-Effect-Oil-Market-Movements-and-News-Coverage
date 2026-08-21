@@ -1,0 +1,37 @@
+category,category_label,measure,measure_label,market_group,n_days_with_coverage,mean,median,standard_deviation
+all_oil,All oil coverage,mean_sentiment,Mean VADER compound score,normal,1345,-0.05857245010916386,0.0,0.26342454498375284
+all_oil,All oil coverage,mean_sentiment,Mean VADER compound score,extreme_increase,53,-0.028620274034141968,0.0,0.1990989808453792
+all_oil,All oil coverage,mean_sentiment,Mean VADER compound score,extreme_decrease,37,-0.1100518918918919,0.0,0.21210159335754403
+all_oil,All oil coverage,negative_headline_share,Negative-headline share,normal,1345,0.334402254086269,0.0,0.42612941517163966
+all_oil,All oil coverage,negative_headline_share,Negative-headline share,extreme_increase,53,0.23023360287511233,0.0,0.3566001936158738
+all_oil,All oil coverage,negative_headline_share,Negative-headline share,extreme_decrease,37,0.3941441441441441,0.0,0.4617501631978198
+all_oil,All oil coverage,positive_headline_share,Positive-headline share,normal,1345,0.20457691626836608,0.0,0.36178050612973456
+all_oil,All oil coverage,positive_headline_share,Positive-headline share,extreme_increase,53,0.1623090745732255,0.0,0.3290461267575669
+all_oil,All oil coverage,positive_headline_share,Positive-headline share,extreme_decrease,37,0.1391891891891892,0.0,0.3032798135583354
+market_prices,Market and prices,mean_sentiment,Mean VADER compound score,normal,431,-0.04491158159319413,0.0,0.29517522811662356
+market_prices,Market and prices,mean_sentiment,Mean VADER compound score,extreme_increase,29,0.026298275862068964,0.0,0.24465978805631802
+market_prices,Market and prices,mean_sentiment,Mean VADER compound score,extreme_decrease,16,-0.13184895833333335,0.0,0.2784519047153087
+market_prices,Market and prices,negative_headline_share,Negative-headline share,normal,431,0.3226604795050271,0.0,0.4377984456703763
+market_prices,Market and prices,negative_headline_share,Negative-headline share,extreme_increase,29,0.2011494252873563,0.0,0.362911808629744
+market_prices,Market and prices,negative_headline_share,Negative-headline share,extreme_decrease,16,0.40104166666666663,0.0,0.4784414802251159
+market_prices,Market and prices,positive_headline_share,Positive-headline share,normal,431,0.2353054911059551,0.0,0.398653227908959
+market_prices,Market and prices,positive_headline_share,Positive-headline share,extreme_increase,29,0.29310344827586204,0.0,0.4264451908757068
+market_prices,Market and prices,positive_headline_share,Positive-headline share,extreme_decrease,16,0.140625,0.0,0.34118360159890454
+supply_geopolitics,Supply and geopolitics,mean_sentiment,Mean VADER compound score,normal,496,-0.0648519254032258,0.0,0.3003675718379467
+supply_geopolitics,Supply and geopolitics,mean_sentiment,Mean VADER compound score,extreme_increase,14,-0.10232142857142856,-0.0258,0.298076085869083
+supply_geopolitics,Supply and geopolitics,mean_sentiment,Mean VADER compound score,extreme_decrease,12,-0.08894583333333334,-0.064,0.29060828795221094
+supply_geopolitics,Supply and geopolitics,negative_headline_share,Negative-headline share,normal,496,0.3744623655913979,0.0,0.4687456599849772
+supply_geopolitics,Supply and geopolitics,negative_headline_share,Negative-headline share,extreme_increase,14,0.4642857142857143,0.25,0.4986244815754373
+supply_geopolitics,Supply and geopolitics,negative_headline_share,Negative-headline share,extreme_decrease,12,0.4166666666666667,0.25,0.468718433280546
+supply_geopolitics,Supply and geopolitics,positive_headline_share,Positive-headline share,normal,496,0.2601478494623656,0.0,0.42216913606181267
+supply_geopolitics,Supply and geopolitics,positive_headline_share,Positive-headline share,extreme_increase,14,0.17857142857142858,0.0,0.372473171834246
+supply_geopolitics,Supply and geopolitics,positive_headline_share,Positive-headline share,extreme_decrease,12,0.2916666666666667,0.0,0.45016831868926
+consumer_fuel,Consumer fuel,mean_sentiment,Mean VADER compound score,normal,790,-0.07060380650994576,0.0,0.23020777509236937
+consumer_fuel,Consumer fuel,mean_sentiment,Mean VADER compound score,extreme_increase,31,-0.047184408602150535,0.0,0.15295864776053422
+consumer_fuel,Consumer fuel,mean_sentiment,Mean VADER compound score,extreme_decrease,21,-0.08951904761904761,0.0,0.17213321765146788
+consumer_fuel,Consumer fuel,negative_headline_share,Negative-headline share,normal,790,0.32491711874623264,0.0,0.4318971415435969
+consumer_fuel,Consumer fuel,negative_headline_share,Negative-headline share,extreme_increase,31,0.20967741935483872,0.0,0.362521370852768
+consumer_fuel,Consumer fuel,negative_headline_share,Negative-headline share,extreme_decrease,21,0.3333333333333333,0.0,0.45643546458763845
+consumer_fuel,Consumer fuel,positive_headline_share,Positive-headline share,normal,790,0.138086196503918,0.0,0.3107670240887734
+consumer_fuel,Consumer fuel,positive_headline_share,Positive-headline share,extreme_increase,31,0.059139784946236555,0.0,0.20434351568237666
+consumer_fuel,Consumer fuel,positive_headline_share,Positive-headline share,extreme_decrease,21,0.09523809523809523,0.0,0.2558831578595795

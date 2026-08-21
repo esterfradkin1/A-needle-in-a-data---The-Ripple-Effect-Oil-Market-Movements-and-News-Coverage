@@ -1,0 +1,13 @@
+category,category_label,measure,measure_label,kruskal_wallis_h,p_value,fdr_p_value,significant_fdr_0_05
+all_oil,All oil coverage,mean_sentiment,Mean VADER compound score,2.227550621168958,0.32831711928545265,0.6497406790840847,False
+all_oil,All oil coverage,negative_headline_share,Negative-headline share,2.8730264453968037,0.2377553149269525,0.6497406790840847,False
+all_oil,All oil coverage,positive_headline_share,Positive-headline share,1.6732941181193874,0.4331604527227232,0.6497406790840847,False
+market_prices,Market and prices,mean_sentiment,Mean VADER compound score,2.7600916656939467,0.25156702276266757,0.6497406790840847,False
+market_prices,Market and prices,negative_headline_share,Negative-headline share,2.249287801450935,0.3247680964529477,0.6497406790840847,False
+market_prices,Market and prices,positive_headline_share,Positive-headline share,1.7992084683189682,0.4067305979685405,0.6497406790840847,False
+supply_geopolitics,Supply and geopolitics,mean_sentiment,Mean VADER compound score,0.5154761682853286,0.7727976135518166,0.8430519420565272,False
+supply_geopolitics,Supply and geopolitics,negative_headline_share,Negative-headline share,0.6331975192407113,0.7286230494706205,0.8430519420565272,False
+supply_geopolitics,Supply and geopolitics,positive_headline_share,Positive-headline share,0.5587376287151582,0.7562609318841385,0.8430519420565272,False
+consumer_fuel,Consumer fuel,mean_sentiment,Mean VADER compound score,0.2343177832950008,0.889443856735364,0.889443856735364,False
+consumer_fuel,Consumer fuel,negative_headline_share,Negative-headline share,2.029033248643555,0.3625776486976573,0.6497406790840847,False
+consumer_fuel,Consumer fuel,positive_headline_share,Positive-headline share,2.445776015726796,0.2943787698928485,0.6497406790840847,False

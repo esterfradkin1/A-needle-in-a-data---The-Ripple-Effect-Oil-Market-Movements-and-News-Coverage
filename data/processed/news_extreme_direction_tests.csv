@@ -1,0 +1,5 @@
+metric,metric_label,test,statistic,p_value,fdr_p_value
+all_oil,All oil coverage,Kruskal-Wallis,12.739839457871135,0.0017122966679252866,0.003424593335850573
+market_prices,Market and prices,Kruskal-Wallis,27.11799141535728,1.2924179584330115e-06,5.169671833732046e-06
+supply_geopolitics,Supply and geopolitics,Kruskal-Wallis,0.014281223977050327,0.9928848216081063,0.9928848216081063
+consumer_fuel,Consumer fuel,Kruskal-Wallis,5.06149784491865,0.07959938419071104,0.10613251225428139
