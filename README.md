@@ -39,3 +39,39 @@ This project investigates the temporal and lead-lag relationship between daily B
 │   ├── analyze_news_market_relationship.py # Step 4: Group comparisons, event study, and lead-lag
 │   ├── analyze_news_sentiment.py     # Step 5: VADER scoring and daily aggregation
 │   └── evaluate_vader_validation.py  # Step 6: Manual ground-truth validation & confusion matrix
+
+
+## Installation & Setup
+
+### Clone the repository
+
+### Create and activate a virtual environment
+python -m venv venv
+
+# On Windows:
+venv\Scripts\activate
+
+# On macOS/Linux:
+source venv/bin/activate
+
+### Install required packages
+pip install pandas numpy matplotlib scipy nltk scikit-learn xlrd openpyxl
+
+### Execution Pipeline
+# Step 1: Clean and align raw EIA and ABC News datasets
+python src/prepare_data.py
+
+# Step 2: Filter and categorize oil-related headlines
+python src/filter_oil_headlines.py
+
+# Step 3: Compute daily returns, rolling volatility, and extreme-day thresholds
+python src/analyze_brent_volatility.py
+
+# Step 4: Run market-relationship comparisons, event studies, and lead-lag analysis
+python src/analyze_news_market_relationship.py
+
+# Step 5: Perform VADER sentiment scoring on categorized headlines
+python src/analyze_news_sentiment.py
+
+# Step 6: Evaluate VADER performance against ground-truth labels and generate Confusion Matrix
+python src/evaluate_vader_validation.py
