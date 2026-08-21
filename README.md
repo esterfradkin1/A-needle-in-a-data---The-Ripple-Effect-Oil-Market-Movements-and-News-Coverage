@@ -26,7 +26,10 @@ This project investigates the temporal and lead-lag relationship between daily B
 ## Repository Structure
 ```text
 ├── data/
-│   ├── raw/                          # Raw input datasets (rbrted.xls, abcnews-date-text.csv)
+│   ├── raw/                          # Raw input datasets
+│   │   ├── abcnews-date-text.zip     # ABC News dataset archive (extract to abcnews-date-text.csv)
+│   │   ├── abcnews-date-text.csv     # Extracted 1.2M ABC headlines
+│   │   └── rbrted.xls                # Daily Brent crude oil historical spot prices (EIA)
 │   └── processed/                    # Cleaned data, extracted market features, and event tables
 ├── output/                           # Generated evaluation figures (.png) and review samples
 ├── src/                              # Analysis and modeling pipeline
