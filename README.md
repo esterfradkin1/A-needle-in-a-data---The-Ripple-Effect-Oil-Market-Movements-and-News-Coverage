@@ -29,5 +29,3 @@ Key analyses include:
 │   ├── analyze_news_market_relationship.py
 │   ├── analyze_news_sentiment.py
 │   └── evaluate_vader_validation.py
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
