@@ -1,0 +1,101 @@
+date,headline_text,primary_category,categories,is_market_prices,is_supply_geopolitics,is_consumer_fuel,market_match_rule,supply_match_rule,consumer_match_rule
+2003-03-21,oil prices edging up on possibility of longer war,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2003-09-24,oil prices surge on opec cut,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2003-09-25,opec oil cut hits share market,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,opec,
+2003-09-26,crude oil prices stay high after opec cut,market_prices,market_prices;supply_geopolitics,True,True,False,crude_oil,opec,
+2003-09-28,virgin tallies cost of jet fuel shortage,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,fuel_shortage_security,reversed_fuel_price_or_cost
+2004-01-09,oil company shares resume trade,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_industry_projects,
+2004-03-06,oil price hits post iraq war high,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2004-03-17,oil price breaks post iraq war high,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2004-05-07,us markets down over iraq oil and job news,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_geopolitical_country,
+2004-05-21,crude oil prices fuel petrol price rise,market_prices,market_prices;consumer_fuel,True,False,True,crude_oil,,fuel_price_or_cost
+2004-05-24,oil price slides after opec talks,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2004-05-30,saudi attack pressures oil price,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2004-06-01,oil surges after saudi hostage drama,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_geopolitical_country,
+2004-06-05,oil price slides as tensions ease,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2004-07-10,oil prices slip on opec output pledge,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2004-08-10,oil hits new high after iraq ceases production,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_geopolitical_country,
+2004-08-12,oil production fears trigger market volatility,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_core_supply,
+2004-08-27,oil prices fall despite iraq pipeline attacks,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2004-09-16,opec oil pledge fails to satisfy markets,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,opec,
+2004-10-06,oil supply fears weigh heavy on market,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_core_supply,
+2004-10-12,high oil price slowing fuel demand growth iea,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2004-10-25,oil hits new high on norwegian labour dispute,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_geopolitical_event,
+2004-10-26,oil price pushes perth petrol to record highs,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2004-12-11,oil price drops as traders brush off opec cut,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-03-05,iran warns of oil crisis over nuclear issue,market_prices,market_prices;supply_geopolitics,True,True,False,oil_crisis_or_fears,oil_geopolitical_country,
+2005-03-17,oil prices hit record as markets ignore opec,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-03-17,petrol price hike tipped after oil surge,market_prices,market_prices;consumer_fuel,True,False,True,oil_price_movement,,fuel_price_or_cost
+2005-04-10,opec considers us50 oil price ceiling,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-04-25,oil prices rise on comments from saudi arabia,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2005-06-16,surging oil demand pushes fuel prices up,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_core_supply,fuel_price_or_cost
+2005-06-22,senate allows us to sue opec for oil price fixing,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-06-25,high oil prices prompt fuel levy reform call,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,fuel_price_or_cost
+2005-07-16,petrol prices up as refinery remains shut,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_refinery_operations,fuel_price_or_cost
+2005-08-30,opec chief concerned by oil price rise,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-09-18,opec wants to stabilise oil prices president says,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-10-31,abare forecast talks down oil price impact,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_policy,
+2005-12-31,minister steps aside amid iraq oil crisis,market_prices,market_prices;supply_geopolitics,True,True,False,oil_crisis_or_fears,oil_geopolitical_country,
+2006-01-13,iran oil jitters strain markets,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_geopolitical_country,
+2006-02-14,refinery closure increased fuel prices report,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_refinery_operations,fuel_price_or_cost
+2006-02-25,saudi attack drives up oil price,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2006-04-07,rising world oil prices to blame for high petrol,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2006-04-18,oil price hike to push petrol inflation up,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2006-06-23,petrol price inquiry should look at oil companies,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_industry_projects,fuel_price_or_cost
+2006-08-08,banks oil firms lift market,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_industry_projects,
+2006-08-15,middle east cease fire lowers oil price,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2007-01-12,petrol prices not reflecting oil plunge says,market_prices,market_prices;consumer_fuel,True,False,True,oil_price_movement,,fuel_price_or_cost
+2007-01-16,oil companies pressed on fuel prices,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_industry_projects,fuel_price_or_cost
+2007-01-16,nrma joins petrol price attack on oil companies,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_industry_projects,fuel_price_or_cost
+2007-01-25,oil companies collaborating on petrol prices nrma,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_industry_projects,fuel_price_or_cost
+2007-09-28,fears oil companies fixing diesel prices,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_industry_projects,fuel_price_or_cost
+2007-10-16,middle east tensions push up world oil prices,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2007-10-17,international tensions put pressure on oil markets,market_prices,market_prices;supply_geopolitics,True,True,False,oil_market,oil_geopolitical_event,
+2007-10-24,oil prices may raise virgin blue fuel surcharge,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,fuel_price_or_cost
+2007-11-19,oil demand sends petrol price to 5 month high,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_core_supply,fuel_price_or_cost
+2007-11-28,saudi minister sees mismatch in oil prices,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2008-01-08,us oil prices push petrol prices closer to 150 a,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,fuel_price_or_cost
+2008-01-20,us saudi agree on need for oil market stability,market_prices,market_prices;supply_geopolitics,True,True,False,oil_market,oil_geopolitical_country,
+2008-03-22,cheney saudi king share common views on oil,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_geopolitical_country,
+2008-05-15,new oil tax wont push up petrol prices govt,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_policy,fuel_price_or_cost
+2008-06-08,boost oil supply to ease fuel prices rudd,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_core_supply,fuel_price_or_cost
+2008-06-10,speculators not opec causing oil price spike,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2008-06-16,oil hits record high despite saudi pledge,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_geopolitical_country,
+2008-06-17,qantas cost cuts nothing to do with oil price union,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_policy,
+2008-06-24,oil prices wont fall opec president,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2008-08-11,fears georgia unrest could fuel oil price hike,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,fuel_cost_proximity
+2008-09-09,oil market fairly well balanced saudi oil minister,market_prices,market_prices;supply_geopolitics,True,True,False,oil_market,oil_geopolitical_country,
+2008-09-09,oil falls as opec expected to maintain targets,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,opec,
+2008-11-30,recession will dampen oil prices opec,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2009-03-24,fears nano will drive up oil price fuel pollution,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2010-10-29,mango shortage tipped to fuel price hike,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,fuel_shortage_security,fuel_price_or_cost
+2012-02-28,iran tensions send oil prices soaring,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2012-02-29,kohler oil reserves shift global markets,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_core_supply,
+2013-01-28,share prices rise after shale oil find,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,shale_oil,
+2013-02-25,oil prices to drop as shale oil flows,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,shale_oil,
+2014-06-16,iraq is fueling oil fears,market_prices,market_prices;supply_geopolitics,True,True,False,oil_crisis_or_fears,oil_geopolitical_country,
+2014-09-16,fuel price to rise as aussie dollar drops despite oil supply,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_core_supply,fuel_price_or_cost
+2014-11-28,oil price collapses opec nations against cutting production,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2014-12-01,inflation pressures ease on falling oil fuel prices,market_prices,market_prices;consumer_fuel,True,False,True,oil_and_financial_market,,fuel_price_or_cost
+2014-12-03,petrol prices to drop on oil fall but airfares to remain steady,market_prices,market_prices;consumer_fuel,True,False,True,oil_price_movement,,fuel_price_or_cost
+2015-01-15,woodside set to cut spending in response to falling oil prices,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_policy,
+2015-03-27,oil jumps on saudi led airstrikes wall st eases,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_geopolitical_country,
+2015-07-17,santos cuts investment to offset weak oil prices,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_policy,
+2016-04-18,doha oil deal failure sparks crude price plunge,market_prices,market_prices;supply_geopolitics,True,True,False,crude_oil,oil_policy,
+2016-04-18,oil prices plunge after opec fails to cap output,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2016-09-05,russia and saudi arabia agree to stabilise oil price,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2016-12-01,oil surges as opec agrees to cut production,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,opec,
+2016-12-02,oil prices continue rise as opec; russia agree to cut production,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2016-12-12,energy stocks after opec decision to cut oil output,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,opec,
+2017-09-04,buru energy resumes crude oil exports from wyndham port,market_prices,market_prices;supply_geopolitics,True,True,False,crude_oil,oil_core_supply,
+2017-12-27,why petrol expensive global oil deal opec reserve bank dilemma,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,opec,fuel_price_level
+2018-05-10,wall street boost after trump pulls out iran deal oil surge amp,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_policy,
+2018-08-09,wall street falter us china trade tension sinking oil prices,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2019-04-23,oil six month high us iran oil wall street,market_prices,market_prices;supply_geopolitics,True,True,False,oil_and_financial_market,oil_geopolitical_country,
+2019-06-07,fuel prices falling as crude oil market affects petrol stations,market_prices,market_prices;consumer_fuel,True,False,True,crude_oil,,fuel_price_or_cost
+2019-09-16,oil prices expected to jump more than 10pc on saudi attack,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2019-09-30,saudi warns escalation with iran would cause oil price surge,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_country,
+2020-03-09,the oil price plunge petrol prices in australia $1 litre,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,fuel_price_or_cost
+2020-03-11,saudi arabia and russia intensify oil price war,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,oil_geopolitical_event,
+2020-04-21,coronavirus negative oil prices what it means at petrol pump,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2020-04-22,coronavirus oil price fuel security,market_prices,market_prices;supply_geopolitics;consumer_fuel,True,True,True,oil_price,fuel_shortage_security,reversed_fuel_price_or_cost

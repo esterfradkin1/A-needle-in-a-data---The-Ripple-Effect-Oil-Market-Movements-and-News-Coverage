@@ -1,0 +1,151 @@
+date,headline_text,primary_category,categories,is_market_prices,is_supply_geopolitics,is_consumer_fuel,market_match_rule,supply_match_rule,consumer_match_rule
+2004-03-18,vibrating pedal saves on the petrol bill,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2004-05-14,fuel costs force rex airfare increase,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2004-05-14,regional airlines impose fuel surcharges,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-04-10,melbourne petrol prices hit record high,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-06-20,diesel prices push to record highs,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-08-18,fuel prices cutting into airline profits,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-09-01,bus service to use rising fuel prices in ad,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-09-12,caltex says its not sorry for high petrol prices,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-09-20,planned government fuel excise increase being,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2005-10-03,family first seeks fuel excise cut,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-02-16,job cuts fuel prices hit qantas bottom line,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-04-13,fuel price tipped to hurt bega valley tourism,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-04-25,truckies promise another fuel price protest,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-05-18,drought fuel costs take toll on landcare,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-06-25,howards fuel price monitoring questioned,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-06-27,wa nationals criticise fuel tax bill,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2006-08-17,beattie promises cheaper fuel with ethanol plan,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_level
+2007-01-19,adelaide petrol prices predicted to fall,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-01-19,far north fuel prices remain high while south east,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-01-19,further drop in petrol prices forecast,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-01-23,stirling urges accc to act on nt petrol prices,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-01-25,regional fuel price hard to reduce stoner,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-04-05,holiday fuel price spikes hurt small businesses,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-04-26,removing state fuel tax not on agenda minister,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-09-14,mcgauran reveals high latrobe valley fuel prices,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2007-11-21,govt ignores recommendation to scrap fuel subsidy,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-02-14,rising fuel costs worry agribusinesses survey,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-03-11,nrma to track sydney petrol prices,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-03-20,no easter price hike in petrol samuel,consumer_fuel,consumer_fuel,False,False,True,,,reversed_fuel_price_or_cost
+2008-04-07,rex to lift fuel surcharge,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-05-16,record fuel prices in tasmania,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-06-04,petrol prices to be catalyst for green cars,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-06-07,fuel prices keep qlders inside on long weekend,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-06-09,g8 to focus on petrol prices,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-11-11,airasia scraps fuel surcharge,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2008-12-23,fuel prices tipped to rise for christmas,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2009-03-16,fuel prices likely to keep falling economists,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2009-05-18,cutting fuel subsidy will hurt regional qld,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2009-12-31,fuel prices soar,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2011-12-19,petrol price hits four month low,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2012-03-30,cattlemen meet to talk live exports and fuel costs,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2012-04-10,petrol prices headed for record high,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2013-02-27,petrol excise change made australia less fuel efficient,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2013-09-06,confusing petrol price displays fuel racq anger,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2013-12-03,raa worried country city fuel price divide growing,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2014-07-15,fuel excise increase dumped,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2014-09-16,fuel prices to rise as australian dollar drops,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2014-12-03,fuel price difference between metro and country areas questioned,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2015-01-05,petrol prices hit fresh four year low,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2015-05-07,greens to continue to oppose fuel excise spending on roads,consumer_fuel,consumer_fuel,False,False,True,,,fuel_price_or_cost
+2004-05-13,us oil price soars to record closing high,market_prices,market_prices,True,False,False,oil_price,,
+2004-05-21,local market stronger as oil price dips,market_prices,market_prices,True,False,False,oil_price,,
+2004-07-29,oil price spike worries us investors,market_prices,market_prices,True,False,False,oil_price,,
+2004-08-07,oil prices yoyo on yukos woes,market_prices,market_prices,True,False,False,oil_price,,
+2004-08-10,oil hits new high after iraq ceases production,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price_movement,oil_geopolitical_country,
+2004-08-22,oil prices will fall says bhp,market_prices,market_prices,True,False,False,oil_price,,
+2004-09-02,oil price rise impacts on us share prices,market_prices,market_prices,True,False,False,oil_price,,
+2004-09-23,rising oil price unnerves us markets,market_prices,market_prices,True,False,False,oil_price,,
+2004-10-15,oil price fails to dampen all ords,market_prices,market_prices,True,False,False,oil_price,,
+2004-12-08,energy stocks fall after oil price drop,market_prices,market_prices,True,False,False,oil_price,,
+2005-01-06,oil prices fall,market_prices,market_prices,True,False,False,oil_price,,
+2005-02-23,us markets knocked down by oil price,market_prices,market_prices,True,False,False,oil_price,,
+2005-02-23,oil surge pushes dollar to 12 month high,market_prices,market_prices,True,False,False,oil_price_movement,,
+2005-06-21,oil price hits us markets,market_prices,market_prices,True,False,False,oil_price,,
+2005-08-30,opec chief concerned by oil price rise,market_prices,market_prices;supply_geopolitics,True,True,False,oil_price,opec,
+2005-08-31,costello warns over high oil price,market_prices,market_prices,True,False,False,oil_price,,
+2005-09-27,oil prices forecast to hit virgin blue profit,market_prices,market_prices,True,False,False,oil_price,,
+2006-01-18,motorists to feel pinch as oil prices climb,market_prices,market_prices,True,False,False,oil_price,,
+2006-04-07,rising world oil prices to blame for high petrol,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2006-05-02,oil prices fed comments boost us dollar,market_prices,market_prices,True,False,False,oil_price,,
+2007-09-13,motorists insulated from oil price spike fueltrac,market_prices,market_prices,True,False,False,oil_price,,
+2008-01-04,oil price hype motoring group,market_prices,market_prices,True,False,False,oil_price,,
+2008-04-15,local market higher on oil price,market_prices,market_prices,True,False,False,oil_price,,
+2008-05-10,us stocks slump amid record oil price,market_prices,market_prices,True,False,False,oil_price,,
+2008-06-16,oil price drops as saudis pledge more production,market_prices,market_prices,True,False,False,oil_price,,
+2008-07-23,market up 1pc after oil price slumps,market_prices,market_prices,True,False,False,oil_price,,
+2008-07-30,market rises on oil price fall,market_prices,market_prices,True,False,False,oil_price,,
+2008-10-18,drivers ripped off as oil price falls expert,market_prices,market_prices,True,False,False,oil_price,,
+2008-10-24,oil prices on the way up,market_prices,market_prices,True,False,False,oil_price,,
+2008-12-30,gaza violence driving oil prices up,market_prices,market_prices,True,False,False,oil_price,,
+2009-02-14,oil price climbs towards us36,market_prices,market_prices,True,False,False,oil_price,,
+2011-02-01,egypt chaos pushes oil prices up,market_prices,market_prices,True,False,False,oil_price,,
+2011-02-24,share market slides on rising oil prices,market_prices,market_prices,True,False,False,oil_price,,
+2011-03-24,qantas increases fares to counter oil price rise,market_prices,market_prices,True,False,False,oil_price,,
+2013-11-26,oil prices drop,market_prices,market_prices,True,False,False,oil_price,,
+2014-12-02,wall st slips despite oil price rebound,market_prices,market_prices,True,False,False,oil_price,,
+2015-02-03,wall st closes higher after volatile session as oil prices boun,market_prices,market_prices,True,False,False,oil_price,,
+2015-02-05,oil price rout resumes leaving us markets mixed,market_prices,market_prices,True,False,False,oil_price,,
+2015-02-11,resource and energy sector shares fall after oil price slips,market_prices,market_prices,True,False,False,oil_price,,
+2015-08-20,falling global oil prices help drive local share market lower,market_prices,market_prices,True,False,False,oil_price,,
+2015-12-31,wall st slips on renewed oil price slide,market_prices,market_prices,True,False,False,oil_price,,
+2016-01-13,oil prices slump rbs sell everything advice rejected,market_prices,market_prices,True,False,False,oil_price,,
+2016-01-16,benefits of falling oil prices not fully passed on to motorists,market_prices,market_prices,True,False,False,oil_price,,
+2016-05-17,higher oil prices push australian share market up,market_prices,market_prices,True,False,False,oil_price,,
+2016-10-11,crude oil hits year high on russian commitment to cap,market_prices,market_prices,True,False,False,crude_oil,,
+2016-10-11,oil price sees share market rise,market_prices,market_prices,True,False,False,oil_price,,
+2016-11-22,could the price of oil finally be on the rise,market_prices,market_prices,True,False,False,oil_price,,
+2017-06-22,wall street oil banks drag down stocks,market_prices,market_prices,True,False,False,oil_and_financial_market,,
+2018-04-19,asx lift rally metal oil prices mining wall street slows down,market_prices,market_prices,True,False,False,oil_price,,
+2020-04-21,coronavirus negative oil prices what it means at petrol pump,market_prices,market_prices;consumer_fuel,True,False,True,oil_price,,reversed_fuel_price_or_cost
+2003-08-16,iraqs key oil pipeline to turkey hit by fire,supply_geopolitics,supply_geopolitics,False,True,False,,oil_infrastructure_disruption,
+2003-10-05,us snipers to defend iraq oil pipeline,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
+2003-10-29,fines over shale oil plant dust,supply_geopolitics,supply_geopolitics,False,True,False,,shale_oil,
+2003-11-04,russian billionaire resigns from oil company,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2004-05-16,special opec meeting may boost oil output,supply_geopolitics,supply_geopolitics,False,True,False,,opec,
+2004-07-05,iraq oil infrastructure remains under threat,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
+2004-07-08,tax debt results in police raid on russian oil,supply_geopolitics,supply_geopolitics,False,True,False,,oil_policy,
+2004-07-30,new oil exploration licences issued,supply_geopolitics,supply_geopolitics,False,True,False,,oil_exploration_drilling,
+2004-11-17,insurgents attack iraqi oil pipeline,supply_geopolitics,supply_geopolitics,False,True,False,,oil_infrastructure_disruption,
+2005-01-12,e timor to set up national oil company,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2005-07-21,woodside projects boosts oil production,supply_geopolitics,supply_geopolitics,False,True,False,,oil_core_supply,
+2005-07-22,new petroleum exploration permits for carnarvon,supply_geopolitics,supply_geopolitics,False,True,False,,petroleum_context,
+2005-11-04,more oil exploration off mid west coast,supply_geopolitics,supply_geopolitics,False,True,False,,oil_exploration_drilling,
+2005-12-13,firefighters extinguishing uk oil depot inferno,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2006-01-19,partnership to tap tas oil reserves,supply_geopolitics,supply_geopolitics,False,True,False,,oil_core_supply,
+2006-01-22,iranian tensions may hit opec,supply_geopolitics,supply_geopolitics,False,True,False,,opec,
+2006-02-14,refinery closure increased fuel prices report,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_refinery_operations,fuel_price_or_cost
+2006-02-19,shell evacuates oil field following attack in,supply_geopolitics,supply_geopolitics,False,True,False,,oil_infrastructure_disruption,
+2007-01-16,oil companies pressed on fuel prices,supply_geopolitics,supply_geopolitics;consumer_fuel,False,True,True,,oil_industry_projects,fuel_price_or_cost
+2007-07-06,iraq never about oil nelson,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
+2007-08-27,noonkanbah signs oil and gas exploration deal,supply_geopolitics,supply_geopolitics,False,True,False,,oil_and_gas_industry,
+2007-10-19,refinery problems cause diesel shortage,supply_geopolitics,supply_geopolitics,False,True,False,,fuel_shortage_security,
+2007-11-27,thai oil company to invest in austs natural gas,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2007-12-01,chavez threatens to cut oil exports to us,supply_geopolitics,supply_geopolitics,False,True,False,,oil_core_supply,
+2007-12-26,accc continues attack on oil companies,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2008-03-21,russian oil giant denies espionage claims,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2008-04-27,bp shutting down major british oil pipeline,supply_geopolitics,supply_geopolitics,False,True,False,,oil_infrastructure_disruption,
+2008-05-17,saudi oil output boost doesnt solve problem bush,supply_geopolitics,supply_geopolitics,False,True,False,,oil_core_supply,
+2008-06-16,australia going to opec meeting rudd,supply_geopolitics,supply_geopolitics,False,True,False,,opec,
+2008-06-22,ferguson powerless at saudi oil meeting,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
+2008-11-29,opec may defer third output cut ministers say,supply_geopolitics,supply_geopolitics,False,True,False,,opec,
+2008-11-29,us75 a fair price for oil saudi arabia,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
+2009-01-07,late shipment blamed for petrol shortages,supply_geopolitics,supply_geopolitics,False,True,False,,fuel_shortage_security,
+2009-12-19,nigerian oil pipeline attack breaks truce,supply_geopolitics,supply_geopolitics,False,True,False,,oil_infrastructure_disruption,
+2010-08-06,oil tanker blast a terrorist attack,supply_geopolitics,supply_geopolitics,False,True,False,,strategic_oil_tanker,
+2011-04-11,maps to reveal oil exploration sites,supply_geopolitics,supply_geopolitics,False,True,False,,oil_exploration_drilling,
+2011-04-12,remote community runs low on fuel,supply_geopolitics,supply_geopolitics,False,True,False,,fuel_shortage_security,
+2013-02-13,queensland moves to build shale oil industry,supply_geopolitics,supply_geopolitics,False,True,False,,shale_oil,
+2013-06-21,fonterra oil drilling,supply_geopolitics,supply_geopolitics,False,True,False,,oil_exploration_drilling,
+2013-09-16,oil industry educates shoppers,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2014-10-14,caltex australias sydney oil refinery is closed,supply_geopolitics,supply_geopolitics,False,True,False,,oil_refinery_operations,
+2015-02-16,fire breaks out at libyas largest oil field,supply_geopolitics,supply_geopolitics,False,True,False,,oil_infrastructure_disruption,
+2016-08-23,png oil company suffers 89 slide,supply_geopolitics,supply_geopolitics,False,True,False,,oil_industry_projects,
+2016-11-29,melbounre airport fuel shortage cray fish rock lobster china,supply_geopolitics,supply_geopolitics,False,True,False,,fuel_shortage_security,
+2017-12-23,new un sanctions for north korea limits oil supplies,supply_geopolitics,supply_geopolitics,False,True,False,,oil_policy,
+2018-05-15,australias oil supply plummets with drilling likely in bight,supply_geopolitics,supply_geopolitics,False,True,False,,oil_core_supply,
+2018-08-21,bhp profit falls on flagged us shale oil write downs,supply_geopolitics,supply_geopolitics,False,True,False,,shale_oil,
+2019-03-11,great australian bight norwegian mp against oil drilling,supply_geopolitics,supply_geopolitics,False,True,False,,oil_exploration_drilling,
+2019-06-14,gulf attacks on oil tankers raise risks in iran crisis,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
+2019-07-06,iran could sieze uk oil tanker,supply_geopolitics,supply_geopolitics,False,True,False,,oil_geopolitical_country,
